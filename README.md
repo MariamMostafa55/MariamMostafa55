@@ -1,9 +1,11 @@
-<h1 align="center">Hey everyone! 👩‍💻 Welcome to my coding universe 🌌 I'm Mariam Mostafa!👋</h1>
+<h1 align="center">Hey everyone! 👩‍💻 I'm Mariam Mostafa!👋</h1>
 <h3 align="center">Full-Stack Developer| Angular,.Net</h3>
 
 - 👨‍💻 All of my projects are available at [My GitHub:(https://github.com/MariamMostafa55)](My GitHub:(https://github.com/MariamMostafa55))
 
 - 📫 How to reach me **mariam.mostafa.cs@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tQoNqStFSFffnaX9ESuQQ58T2yc45V2I/view?usp=sharing](https://drive.google.com/file/d/1tQoNqStFSFffnaX9ESuQQ58T2yc45V2I/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
