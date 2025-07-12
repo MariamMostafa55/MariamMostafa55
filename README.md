@@ -10,7 +10,7 @@
   <a href="mailto:mariam.mostafa.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mariam-mostafa23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MariamMostafa55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="[https://drive.google.com/file/d/1tQoNqStFSFffnaX9ESuQQ58T2yc45V2l/view?usp=sharing](https://drive.google.com/file/d/1tQoNqStFSFffnaX9ESuQQ58T2yc45V2I/view?usp=sharing)" target="_blank"><img src="https://img.shields.io/badge/View+CV-6C63FF?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1tQoNqStFSFffnaX9ESuQQ58T2yc45V2I/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/View+CV-6C63FF?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
