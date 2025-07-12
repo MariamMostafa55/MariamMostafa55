@@ -1,35 +1,33 @@
-<h1 align="center">Hi there, I'm Mariam Mostafa 👩‍💻</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hey+everyone!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Welcome+to+my+coding+universe+%F0%9F%8C%8C" alt="Typing Animation" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full-Stack+.NET+Developer;Angular+%7C+C%23+%7C+SQL+%7C+ASP.NET+Core;Welcome+to+my+GitHub+universe+%F0%9F%8C%9C" alt="Typing SVG" />
-</p>
+<h2 align="center"><strong>Full-Stack .NET Developer</strong></h2>
 
 ---
-
-### 📬 Connect with me:
 
 <p align="center">
   <a href="mailto:mariam.mostafa.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mariam-mostafa23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MariamMostafa55"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1tQoNqStFSFffnaX9ESuQQ58T2yc45V2l/view?usp=sharing"><img src="https://img.shields.io/badge/My+CV-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://github.com/MariamMostafa55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1tQoNqStFSFffnaX9ESuQQ58T2yc45V2l/view?usp=sharing"><img src="https://img.shields.io/badge/View+CV-6C63FF?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👩‍🎓 About Me:
+## 👩‍💻 About Me
 
-🎓 Computer Science Student at Egyptian E-Learning University  
-🧠 Passionate about Backend Development, AI, and Clean Code  
-🚀 Aspiring Full-Stack .NET Developer  
-📍 Based in Fayoum, Egypt  
-💡 Interested in ASP.NET Core, Angular, SQL, AI Projects, and CI/CD  
+🎓 I'm a Computer Science student at the Egyptian E-Learning University  
+📌 Based in Fayoum, Egypt  
+💻 Specializing in Full-Stack .NET Development  
+🧠 Passionate about solving real-world backend challenges  
+🚀 Interested in AI, DevOps, and scalable system architecture  
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
-#### 👩‍💻 Front-End:
+### Frontend:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -40,7 +38,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 </p>
 
-#### 🔧 Back-End:
+### Backend:
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
@@ -49,7 +47,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-#### ⚙️ Tools & DevOps:
+### Tools & DevOps:
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -59,20 +57,10 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariamMostafa55&show_icons=true&theme=tokyonight" alt="Mariam's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamMostafa55&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MariamMostafa55&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamMostafa55&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### ✨ Fun Fact
-
-> 💬 "Coffee + Code = Happiness ☕💻"
-
----
-
-## 💡 Ready to collaborate on impactful projects!
 
