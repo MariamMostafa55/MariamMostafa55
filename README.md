@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+everyone!;I'm+Mariam+Mostafa.+Welcome+to+my+coding+universe+%F0%9F%8C%8C" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+everyone!;Welcome+to+my+coding+universe+%F0%9F%8C%8C" alt="Typing Animation" />
 </h1>
 
 <h2 align="center"><strong>Full-Stack .NET Developer</strong></h2>
@@ -20,8 +20,7 @@
 🎓 I'm a Computer Science student at the Egyptian E-Learning University  
 💻 Specializing in Full-Stack .NET Development  
 🧠 Passionate about solving real-world backend challenges  
-🚀 Interested in AI, DevOps, and scalable system architecture 
-📌 Based in Fayoum, Egypt  
+🚀 Interested in AI, DevOps, and scalable system architecture
 
 ---
 
